@@ -1,0 +1,3 @@
+/home/andrej/Documents/Minigames/build/CMakeFiles/Minigames.dir
+/home/andrej/Documents/Minigames/build/CMakeFiles/edit_cache.dir
+/home/andrej/Documents/Minigames/build/CMakeFiles/rebuild_cache.dir
